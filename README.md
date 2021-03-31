@@ -23,7 +23,7 @@ Here are some ideas to get you started:
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/lucas-rosa-058683102/" target="blank"><img align="center" src="https://img1.gratispng.com/20180329/xte/kisspng-computer-icons-linkedin-desktop-wallpaper-white-5abcebacc02bc4.1598845815223305407871.jpg" alt="lucasmetron" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lucas-rosa-058683102/" target="blank"><img align="center" src="https://toppng.com/uploads/preview/linkedin-white-icon-social-media-icon-png-and-vector-1a-logo-11563638575dvc3wfi8e6.png" alt="lucasmetron" height="30" width="40" /></a>
 <a href="https://www.instagram.com/lucas_mrosa/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="lucas_mrosa" height="30" width="40" /></a>
 </p>
 
