@@ -23,7 +23,8 @@ Here are some ideas to get you started:
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/lucas-rosa-058683102/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lucasmetron" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lucas-rosa-058683102/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg![image](https://user-images.githubusercontent.com/31101939/113194974-1dc1dc00-9238-11eb-88bd-97c55d53b611.png)
+" alt="lucasmetron" height="30" width="40" /></a>
 <a href="https://www.instagram.com/lucas_mrosa/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="lucas_mrosa" height="30" width="40" /></a>
 </p>
 
