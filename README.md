@@ -1,5 +1,5 @@
 <!-- ### Hi there 👋
-**andrealvesz/andrealvesz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**lucasmetron/lucasmetron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,17 +13,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm André Alves</h1>
-<h3 align="center">Sou Formado em Sistemas de Informação e no momento estou me especializando em Desenvolvimento FullStack através do curso da B7web, que é um curso realizado pelo Bonieky Lacerda. Aqui estarei publicando todo meu aprendizado!</h3>
+<h1 align="center">Olá 👋, me chamo Lucas Rosa</h1>
+<h3 align="center">Sou Formado em Sistemas de Informação e no momento estou me especializando através do curso ProgramadorBR (HTML, CSS, JavaScript, Firebase, JQuery, Bootstrap, NodeJS, MongoDB, React e Electron) para me tornar desenvolvedor Full Stack ou Front End. Durante a faculdade precisei migrar para o ramo bancário para poder patrocinar meus estudos, mas depois de formado pude encerrar este ciclo em minha vida e me dedicar totalmente para alcançar meu objetivo de conquistar minha primeira vaga de emprego como Desenvolvedor Full-stack Jr ou Front-End Jr. Acompanhe meu GitHub, lá postarei meus estudos e projetos que estou trabalhando.</h3>
 
-- 🌱 I’m currently learning **javascript by b7web course**
-
-- 📫 How to reach me **andrealves1909@gmail.com**
-
+- 🌱 Estou aprendendo: HTML, CSS, JavaScript, Firebase, BootStrap, Jquery, node.JS e React JS  **javascript by b7web course**
+- 👯 Estou procurando pela minha primeira oportunidade como desenvolvedor Front End ou Full Stack ...
+- 📫 Contate-me pelo meu e-mail **lucasmetron@gmail.com** ou telefone +55 (61) 985830961. 
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/andrealves7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="andrealves7" height="30" width="40" /></a>
-<a href="https://instagram.com/andrealvesz7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="andrealvesz7" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lucas-rosa-058683102/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lucasmetron" height="30" width="40" /></a>
+<a href="https://www.instagram.com/lucas_mrosa/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="lucas_mrosa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
