@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Olá 👋, sou o Lucas Rosa</h1>
 <h3 align="center">Sou Formado em Sistemas de Informação e no momento estou me especializando através do curso ProgramadorBR (HTML, CSS, JavaScript, Firebase, jQuery, Bootstrap, NodeJS, MongoDB, React e Electron) para me tornar desenvolvedor Full Stack ou Front End. Durante a faculdade precisei migrar para o ramo bancário para poder patrocinar meus estudos, mas depois de formado pude encerrar este ciclo em minha vida e me dedicar totalmente para alcançar meu objetivo de conquistar minha primeira vaga de emprego como Desenvolvedor Full-stack Jr ou Front-End Jr.</h3>
 
-- 🌱 Estou aprendendo: HTML, CSS, JavaScript, Firebase, BootStrap, Jquery, node.JS e React JS  **Curso do ProgramadorBR**
+- 🌱 Estou aprendendo: HTML, CSS, JavaScript, Firebase, Bootstrap, jQuery, Node.JS e React JS  **Curso do ProgramadorBR**
 - 👯 Estou procurando pela minha primeira oportunidade como desenvolvedor Front End ou Full Stack.
 - 😄 Sempre em busca de aprender novas tecnologias 
 - 📫 Contate-me pelo meu e-mail **lucasmetron@gmail.com** ou no telefone +55 (61) 985830961 (número com whatsapp).  
