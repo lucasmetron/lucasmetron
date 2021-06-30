@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 <h1 align="center">Olá 👋, sou o Lucas Rosa</h1>
 <h3 align="center">Sou Formado em Sistemas de Informação e no momento estou me especializando através do curso ProgramadorBR (HTML, CSS, JavaScript, Firebase, jQuery, Bootstrap, NodeJS, MongoDB, React e Electron) para me tornar desenvolvedor Full Stack ou Front End. Atualmente estou estágiando na IBTI em um projeto Open Source de IoT como desenvolvedor Front-End utilizando as seguintes skills: HTML, CSS, JavaScript, React e Node.</h3>
 
-- 🌱 Estou aprendendo: HTML, CSS, JavaScript, Firebase, Bootstrap, jQuery, React JS, Node.JS e MongoDB no **Curso do ProgramadorBR**
-- 👯 Estou procurando pela minha primeira oportunidade como desenvolvedor Front End ou Full Stack.
-- 😄 Sempre em busca de aprender novas tecnologias 
+- 🌱 Estou aprendendo: HTML, CSS, JavaScript, Firebase, Bootstrap, jQuery, React JS, Node.JS e MongoDB no **Curso do ProgramadorBR**.
+- 👯 Estou fazendo estágio na IBTI como desenvolvedor Front-End.
+- 😄 Sempre em busca de aprender novas tecnologias.
 - 📫 Contate-me pelo meu e-mail **lucasmetron@gmail.com** ou no telefone +55 (61) 985830961 (número com whatsapp).  
  
 <h3 align="left">Connect with me:</h3>
