@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h3 align="center">Sou formado em Sistemas de Informação e me especializei como desenvolvedor Full-Stack por meio do curso ProgramadorBR (HTML, CSS, JavaScript, Firebase, JQuery, Bootstrap, React NodeJS e MongoDB). Atualmente trabalho como desenvolvedor Front-End e venho me especializando nesta stack com cursos avançados de ReactJS.</h3>
 
 - 🌱 Estou me especializando em React e Next.JS.
-- 👯 Estou fazendo estágio na IBTI como desenvolvedor Front-End.
+- 👯 Estou fazendo estágio no IBTI como desenvolvedor Front-End.
 - 😄 Sempre em busca de aprender novas tecnologias.
 - 📫 Contate-me pelo meu e-mail **lucasmetron@gmail.com** ou no telefone +55 (61) 985830961 (número com whatsapp).  
  
